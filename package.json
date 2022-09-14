@@ -1,0 +1,19 @@
+{
+  "name": "@hustnzj/cdn",
+  "version": "1.0.1",
+  "description": "This is for hosting personal static js and css files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hustnzj/cdn.git"
+  },
+  "author": "hustnzj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hustnzj/cdn/issues"
+  },
+  "homepage": "https://github.com/hustnzj/cdn#readme"
+}
